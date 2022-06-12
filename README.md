@@ -1,2 +1,2 @@
 # speedy_julia
-A collection of examples of how to speed up Julia based on Chris Wyman's "Tips for Optimizing C/C++ Code".
+A work in progress collection of examples of how to speed up Julia, originally based on Chris Wyman's "Tips for Optimizing C/C++ Code". Feel free to open issues and submit pull requests about speeding up Julia, not necessary limited to the low level suggestions from Chris' list but in this case preferably ones that are not contained in the [performance tips](https://docs.julialang.org/en/v1/manual/performance-tips/) section of the documentation.
